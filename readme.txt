@@ -12,3 +12,5 @@ This is the 5th version
 This is the 6th version
 
 This is the branch1 modification
+
+This is the 7th version
